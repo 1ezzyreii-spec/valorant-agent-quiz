@@ -1,0 +1,13 @@
+{
+  "id": "./",
+  "name": "测测你最想像无畏契约哪位英雄",
+  "short_name": "英雄档案",
+  "description": "24 道情境题，测出 30 位英雄里最像你的那一位。作者：栗子。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f2ec",
+  "theme_color": "#faf9f5",
+  "icons": [{ "src": "./assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
